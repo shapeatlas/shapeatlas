@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Michele Arcangelo on Shape Atlas</title>
+    <link>/tags/san-michele-arcangelo/</link>
+    <description>Recent content in San Michele Arcangelo on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/san-michele-arcangelo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>San Michele Arcangelo
+</title>
+      <link>/places/italy/san-michele-arcangelo_780522/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/san-michele-arcangelo_780522/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Michele Arcangelo
+</title>
+      <link>/places/italy/san-michele-arcangelo_823210/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/san-michele-arcangelo_823210/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

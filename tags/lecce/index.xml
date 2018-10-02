@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecce on Shape Atlas</title>
+    <link>/tags/lecce/</link>
+    <description>Recent content in Lecce on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lecce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laccu de lu Capraru (Parco del Mago)
+</title>
+      <link>/places/italy/laccu-de-lu-capraru-parco-del-mago_3607480/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/laccu-de-lu-capraru-parco-del-mago_3607480/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teatro Romano di Lecce
+</title>
+      <link>/places/italy/teatro-romano-di-lecce_5692079/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/teatro-romano-di-lecce_5692079/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quattro Colonne
+</title>
+      <link>/places/italy/quattro-colonne_156318/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/quattro-colonne_156318/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

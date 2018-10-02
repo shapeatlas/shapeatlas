@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teramo on Shape Atlas</title>
+    <link>/tags/teramo/</link>
+    <description>Recent content in Teramo on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/teramo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anfiteatro Romano di Interamnia
+</title>
+      <link>/places/italy/anfiteatro-romano-di-interamnia_5850022/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/anfiteatro-romano-di-interamnia_5850022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basilica Cattedrale di Santa Maria Assunta e San Berardo
+</title>
+      <link>/places/italy/basilica-cattedrale-di-santa-maria-assunta-e-san-berardo_5989727/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/basilica-cattedrale-di-santa-maria-assunta-e-san-berardo_5989727/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonara Su Pranu
+</title>
+      <link>/places/italy/tonara-su-pranu_5852476/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/tonara-su-pranu_5852476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torre Cerrano
+</title>
+      <link>/places/italy/torre-cerrano_851560/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/torre-cerrano_851560/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

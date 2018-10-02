@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reggio Emilia on Shape Atlas</title>
+    <link>/tags/reggio-emilia/</link>
+    <description>Recent content in Reggio Emilia on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/reggio-emilia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oratorio di Beleo
+</title>
+      <link>/places/italy/oratorio-di-beleo_3254031/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/oratorio-di-beleo_3254031/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salse di Regnano
+</title>
+      <link>/places/italy/salse-di-regnano_2936645/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/salse-di-regnano_2936645/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rocca dei Gonzaga di Novellara (Sec. XIV)
+</title>
+      <link>/places/italy/rocca-dei-gonzaga-di-novellara-sec-xiv_61736/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/rocca-dei-gonzaga-di-novellara-sec-xiv_61736/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Rocca on Shape Atlas</title>
+    <link>/tags/la-rocca/</link>
+    <description>Recent content in La Rocca on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/la-rocca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Rocca
+</title>
+      <link>/places/italy/la-rocca_1005233/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/la-rocca_1005233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La Rocca
+</title>
+      <link>/places/italy/la-rocca_73623/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/la-rocca_73623/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

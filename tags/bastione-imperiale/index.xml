@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bastione Imperiale on Shape Atlas</title>
+    <link>/tags/bastione-imperiale/</link>
+    <description>Recent content in Bastione Imperiale on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/bastione-imperiale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bastione Imperiale
+</title>
+      <link>/places/italy/bastione-imperiale_1189527/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/bastione-imperiale_1189527/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

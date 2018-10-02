@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecco on Shape Atlas</title>
+    <link>/tags/lecco/</link>
+    <description>Recent content in Lecco on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lecco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forte Montecchio
+</title>
+      <link>/places/italy/forte-montecchio_3786975/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/forte-montecchio_3786975/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forte di Fuentes
+</title>
+      <link>/places/italy/forte-di-fuentes_3822567/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/forte-di-fuentes_3822567/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torre degli Arrigoni
+</title>
+      <link>/places/italy/torre-degli-arrigoni_1295979/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/torre-degli-arrigoni_1295979/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

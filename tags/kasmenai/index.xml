@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kasmenai on Shape Atlas</title>
+    <link>/tags/kasmenai/</link>
+    <description>Recent content in Kasmenai on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kasmenai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kasmenai
+</title>
+      <link>/places/italy/kasmenai_5127732/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/kasmenai_5127732/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

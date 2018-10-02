@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benevento on Shape Atlas</title>
+    <link>/tags/benevento/</link>
+    <description>Recent content in Benevento on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/benevento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arco di Traiano
+</title>
+      <link>/places/italy/arco-di-traiano_1370678/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/arco-di-traiano_1370678/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chiesa di Santa Sofia
+</title>
+      <link>/places/italy/chiesa-di-santa-sofia_4380503/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/chiesa-di-santa-sofia_4380503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hortus Conclusus
+</title>
+      <link>/places/italy/hortus-conclusus_4377970/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/hortus-conclusus_4377970/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ponte Leproso
+</title>
+      <link>/places/italy/ponte-leproso_6188714/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/ponte-leproso_6188714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rocca dei Rettori
+</title>
+      <link>/places/italy/rocca-dei-rettori_64117/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/rocca-dei-rettori_64117/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

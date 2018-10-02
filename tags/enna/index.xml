@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enna on Shape Atlas</title>
+    <link>/tags/enna/</link>
+    <description>Recent content in Enna on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/enna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ekklesiasterion
+</title>
+      <link>/places/italy/ekklesiasterion_2788111/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/ekklesiasterion_2788111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Pupi Ballerini
+</title>
+      <link>/places/italy/i-pupi-ballerini_5552653/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/i-pupi-ballerini_5552653/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teatro
+</title>
+      <link>/places/italy/teatro_2788114/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/teatro_2788114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agorà
+</title>
+      <link>/places/italy/agora_74997/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/agora_74997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Villa Romana del Casale
+</title>
+      <link>/places/italy/villa-romana-del-casale_80952/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/villa-romana-del-casale_80952/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

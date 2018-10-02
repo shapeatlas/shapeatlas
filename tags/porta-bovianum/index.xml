@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Porta Bovianum on Shape Atlas</title>
+    <link>/tags/porta-bovianum/</link>
+    <description>Recent content in Porta Bovianum on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/porta-bovianum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Porta Bovianum
+</title>
+      <link>/places/italy/porta-bovianum_4398529/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/porta-bovianum_4398529/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

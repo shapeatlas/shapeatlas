@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piacenza on Shape Atlas</title>
+    <link>/tags/piacenza/</link>
+    <description>Recent content in Piacenza on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/piacenza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Castello di Vigoleno
+</title>
+      <link>/places/italy/castello-di-vigoleno_2867295/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/castello-di-vigoleno_2867295/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santa Maria dell&#39;Isola
+</title>
+      <link>/places/italy/santa-maria-dell-isola_3845274/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/santa-maria-dell-isola_3845274/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Villa Gazzola
+</title>
+      <link>/places/italy/villa-gazzola_1298262/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/villa-gazzola_1298262/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mausoleo Di Augusto on Shape Atlas</title>
+    <link>/tags/mausoleo-di-augusto/</link>
+    <description>Recent content in Mausoleo Di Augusto on Shape Atlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mausoleo-di-augusto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mausoleo di Augusto
+</title>
+      <link>/places/italy/mausoleo-di-augusto_4689009/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/mausoleo-di-augusto_4689009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mausoleo di Augusto
+</title>
+      <link>/places/italy/mausoleo-di-augusto_50689/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/places/italy/mausoleo-di-augusto_50689/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
